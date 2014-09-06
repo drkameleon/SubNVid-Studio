@@ -1,0 +1,8 @@
+C:\Users\Dr.Kameleon\Documents\SharpDevelop Projects\SubNVid Studio\SubNVid Studio\bin\Debug\SubNVid Studio.exe
+C:\Users\Dr.Kameleon\Documents\SharpDevelop Projects\SubNVid Studio\SubNVid Studio\bin\Debug\SubNVid Studio.pdb
+C:\Users\Dr.Kameleon\Documents\SharpDevelop Projects\SubNVid Studio\SubNVid Studio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dr.Kameleon\Documents\SharpDevelop Projects\SubNVid Studio\SubNVid Studio\obj\Debug\SubNVid_Studio.MainForm.resources
+C:\Users\Dr.Kameleon\Documents\SharpDevelop Projects\SubNVid Studio\SubNVid Studio\obj\Debug\SubNVid Studio.csproj.GenerateResource.Cache
+C:\Users\Dr.Kameleon\Documents\SharpDevelop Projects\SubNVid Studio\SubNVid Studio\obj\Debug\SubNVid Studio.exe
+C:\Users\Dr.Kameleon\Documents\SharpDevelop Projects\SubNVid Studio\SubNVid Studio\obj\Debug\SubNVid Studio.pdb
+C:\Users\Dr.Kameleon\Documents\SharpDevelop Projects\SubNVid Studio\SubNVid Studio\bin\Debug\NUnit.Framework.dll

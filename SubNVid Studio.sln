@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.0.0.3800
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubNVid Studio", "SubNVid Studio\SubNVid Studio.csproj", "{B8588349-3CE2-45A2-B504-C97CA1EC5B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8588349-3CE2-45A2-B504-C97CA1EC5B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8588349-3CE2-45A2-B504-C97CA1EC5B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8588349-3CE2-45A2-B504-C97CA1EC5B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8588349-3CE2-45A2-B504-C97CA1EC5B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
